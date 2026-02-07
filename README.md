@@ -3,7 +3,7 @@
 
 <h2>My name is Pronoy chakraborty , I like React , javascript and Star Wars.</h2>
 
-<ul>My strengths - <li> ⚛️ React </li><li>✅ Node js</li> <li> 🗄️Mongo DB </li><li>🖥️ HTML , CSS , JS</li></ul>
+<ul>My strengths - <li> Springboot </li></ul>
 
 <ul >My weakness - <li >None , I am perfect ( can't say the same for my code tho )</li></ul>
 
